@@ -11,7 +11,7 @@ import com.google.android.youtube.player.YouTubePlayer
 import com.google.android.youtube.player.YouTubePlayerView
 
 const val YOUTUBE_VIDEO_ID = "jDzGcBpIge8"
-//const val YOUTUBE_PLAYLIST_ID = "PL3rP64NRtmbjJFGumln1bvmYHaqhxYvlt"
+const val YOUTUBE_PLAYLIST_ID = "PL3rP64NRtmbjJFGumln1bvmYHaqhxYvlt"
 
 class YoutubeActivity : YouTubeBaseActivity(), YouTubePlayer.OnInitializedListener {
 
